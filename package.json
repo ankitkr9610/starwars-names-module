@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names-module",
+  "version": "1.0.0",
+  "description": "Get a random or all StarWars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitkr9610/starwars-names-module.git"
+  },
+  "keywords": [
+    "Random",
+    "Starwars",
+    "Names"
+  ],
+  "author": "Ankit Kumar <ankit.kumar@robosoftin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankitkr9610/starwars-names-module/issues"
+  },
+  "homepage": "https://github.com/ankitkr9610/starwars-names-module#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
